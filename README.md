@@ -16,8 +16,8 @@ Amazon Lookout for Vision is a machine learning (ML) service that spots defects 
 
 5. As you go through steps in the notebook, notice changes in the console, specifically during these steps: 
 
-Creating a project
-Creating a dataset
-Training your model
-Evaluating your model
-Using your model
+- Creating a project
+- Creating a dataset
+- Training your model
+- Evaluating your model
+- Using your model
