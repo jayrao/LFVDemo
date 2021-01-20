@@ -10,5 +10,6 @@ This workshop is intended to run through an end to end example of using the boto
 2. Navigate to SageMaker and click Notebook instances on the side menu
 
 3. Click "Open Jupyter" as shown below 
+![](openjupyter.png)
 
 4. Follow instructions in the notebook to complete the lab
