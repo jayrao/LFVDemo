@@ -12,6 +12,9 @@ Amazon Lookout for Vision is a machine learning (ML) service that spots defects 
 3. Click "Open Jupyter" as shown below 
 ![](openjupyter.png)
 
+4. Click to pen the "Amazon Lookout for Vision Lab.ipynb" notebook 
+![](insidejupyter.png)
+
 4. Follow instructions in the notebook to complete the lab
 
 5. As you go through steps in the notebook, notice changes in the console, specifically when: 
