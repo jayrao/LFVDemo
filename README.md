@@ -14,7 +14,7 @@ Amazon Lookout for Vision is a machine learning (ML) service that spots defects 
 
 4. Follow instructions in the notebook to complete the lab
 
-5. As you go through steps in the notebook, notice changes in the console, specifically during these steps: 
+5. As you go through steps in the notebook, notice changes in the console, specifically when: 
 
 - Creating a project
 - Creating a dataset
