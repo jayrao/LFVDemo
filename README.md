@@ -4,7 +4,7 @@ This workshop is intended to run through an end to end example of using the boto
 
 ## Steps:
 
-1. Launch this cloudformation template - https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=myteststack&templateURL=https://shreyasvathul.s3.us-east-2.amazonaws.com/SampleLFVTemplate.yaml
+1. Launch this cloudformation template - [<img src="http://www.google.com.au/images/nav_logo7.png">](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=myteststack&templateURL=https://shreyasvathul.s3.us-east-2.amazonaws.com/SampleLFVTemplate.yaml)
 (Make sure you are in us-east-1)
 
 2. Navigate to SageMaker and click Notebook instances on the side menu
